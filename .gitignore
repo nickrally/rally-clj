@@ -1,0 +1,15 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+/resources/config.edn
+.clj-kondo/cache/
+.clj-kondo/.cache/
+.lsp/sqlite.*.db

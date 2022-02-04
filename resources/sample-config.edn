@@ -1,0 +1,6 @@
+{:rally
+ {:auth {:zsessionid "_abc123"}
+  :baseurl "https://rally1.rallydev.com/slm/webservice/v2.0/"
+  :workspace "Some Workspace"
+  :project   "Some Project"
+  :log-level "debug"}}
